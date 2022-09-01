@@ -8,7 +8,7 @@ import java.util.*;
         String s = scan.nextLine();
         // Write your code here.
         scan.close();
-        s=s.trim(); 
+       // s=s.trim(); 
         if(s.length()==0)
         {
         System.out.println(0);
